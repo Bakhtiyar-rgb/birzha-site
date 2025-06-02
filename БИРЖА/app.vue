@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <h1 class="text-3xl font-bold">Добро пожаловать в мой сайт!</h1>
-    <p>Сделано с помощью Nuxt 3 + TailwindCSS</p>
+  <div class="min-h-screen bg-gray-100 text-gray-900">
+    <NuxtLayout />
   </div>
 </template>
